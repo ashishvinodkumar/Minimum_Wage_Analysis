@@ -1,8 +1,8 @@
 # Minimum Wage Analysis
 
-Full Report: https://github.com/ashishvinodkumar/Minimum_Wage_Analysis/blob/main/30_Report/Causal_Inference_Minimum_Wage_Analysis_Report.pdf
+[Full Report](https://github.com/ashishvinodkumar/Minimum_Wage_Analysis/blob/main/30_Report/Causal_Inference_Minimum_Wage_Analysis_Report.pdf)
 
-Presentation Video: https://youtu.be/sedPOnExlcE
+[Presentation Video](https://youtu.be/sedPOnExlcE)
 
 # Goal
 The aim of this project is to analyze the effects on Unemployment Rate and GDP, caused by increasing minimum wages. Minimum wages are increased from a baseline of $7.25 in our treatment states (South Dakota, West Virginia, Nebraska) compared to our control states (Iowa, Idaho, Kansas) between 2010-2020 in the United States. Our goal is to estimate this causal effect using a Pre-Post Analysis, Difference-in-Difference Analysis, and Regression Analysis with fixed effects. We aim to use the control states as a reference to estimate the effects on the Unemployment Rate and GDP for the treatment states. We also aim to regress the unemployment rate on our treatment (minimum wages pre-2015 and post-2015), to estimate the Average Treatment on the Treated (ATT).
