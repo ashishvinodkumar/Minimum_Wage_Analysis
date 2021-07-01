@@ -1,0 +1,631 @@
+,State,Year,Population
+0,United States,2010,309321666.0
+1,Northeast,2010,55380134.0
+2,Midwest,2010,66974416.0
+3,South,2010,114866680.0
+4,West,2010,72100436.0
+5,Alabama,2010,4785437.0
+6,Alaska,2010,713910.0
+7,Arizona,2010,6407172.0
+8,Arkansas,2010,2921964.0
+9,California,2010,37319502.0
+10,Colorado,2010,5047349.0
+11,Connecticut,2010,3579114.0
+12,Delaware,2010,899593.0
+13,District of Columbia,2010,605226.0
+14,Florida,2010,18845537.0
+15,Georgia,2010,9711881.0
+16,Hawaii,2010,1363963.0
+17,Idaho,2010,1570746.0
+18,Illinois,2010,12840503.0
+19,Indiana,2010,6490432.0
+20,Iowa,2010,3050745.0
+21,Kansas,2010,2858190.0
+22,Kentucky,2010,4348181.0
+23,Louisiana,2010,4544532.0
+24,Maine,2010,1327629.0
+25,Maryland,2010,5788645.0
+26,Massachusetts,2010,6566307.0
+27,Michigan,2010,9877510.0
+28,Minnesota,2010,5310828.0
+29,Mississippi,2010,2970548.0
+30,Missouri,2010,5995974.0
+31,Montana,2010,990697.0
+32,Nebraska,2010,1829542.0
+33,Nevada,2010,2702405.0
+34,New Hampshire,2010,1316762.0
+35,New Jersey,2010,8799446.0
+36,New Mexico,2010,2064552.0
+37,New York,2010,19399878.0
+38,North Carolina,2010,9574323.0
+39,North Dakota,2010,674715.0
+40,Ohio,2010,11539336.0
+41,Oklahoma,2010,3759944.0
+42,Oregon,2010,3837491.0
+43,Pennsylvania,2010,12711160.0
+44,Rhode Island,2010,1053959.0
+45,South Carolina,2010,4635649.0
+46,South Dakota,2010,816166.0
+47,Tennessee,2010,6355311.0
+48,Texas,2010,25241971.0
+49,Utah,2010,2775332.0
+50,Vermont,2010,625879.0
+51,Virginia,2010,8023699.0
+52,Washington,2010,6742830.0
+53,West Virginia,2010,1854239.0
+54,Wisconsin,2010,5690475.0
+55,Wyoming,2010,564487.0
+56,,2010,
+57,Puerto Rico,2010,3721525.0
+58,"Note: The estimates are based on the 2010 Census and reflect changes to the April 1, 2010 population due to the Count Question Resolution program and geographic program revisions See Geographic Terms and Definitions at http://wwwcensusgov/programs-surveys/popest/guidance-geographies/terms-and-definitionshtml for a list of the states that are included in each region  All geographic boundaries for the 2019 population estimates series except statistical area delineations are as of January 1, 2019  For population estimates methodology statements, see http://wwwcensusgov/programs-surveys/popest/technical-documentation/methodologyhtml",2010,
+59,Suggested Citation:,2010,
+60,"Table 1 Annual Estimates of the Resident Population for the United States, Regions, States, and Puerto Rico: April 1, 2010 to July 1, 2019 (NST-EST2019-01)",2010,
+61,"Source: US Census Bureau, Population Division",2010,
+62,Release Date: December 2019,2010,
+63,United States,2011,311556874.0
+64,Northeast,2011,55604223.0
+65,Midwest,2011,67157800.0
+66,South,2011,116006522.0
+67,West,2011,72788329.0
+68,Alabama,2011,4799069.0
+69,Alaska,2011,722128.0
+70,Arizona,2011,6472643.0
+71,Arkansas,2011,2940667.0
+72,California,2011,37638369.0
+73,Colorado,2011,5121108.0
+74,Connecticut,2011,3588283.0
+75,Delaware,2011,907381.0
+76,District of Columbia,2011,619800.0
+77,Florida,2011,19053237.0
+78,Georgia,2011,9802431.0
+79,Hawaii,2011,1379329.0
+80,Idaho,2011,1583910.0
+81,Illinois,2011,12867454.0
+82,Indiana,2011,6516528.0
+83,Iowa,2011,3066336.0
+84,Kansas,2011,2869225.0
+85,Kentucky,2011,4369821.0
+86,Louisiana,2011,4575625.0
+87,Maine,2011,1328284.0
+88,Maryland,2011,5839419.0
+89,Massachusetts,2011,6613583.0
+90,Michigan,2011,9882412.0
+91,Minnesota,2011,5346143.0
+92,Mississippi,2011,2978731.0
+93,Missouri,2011,6010275.0
+94,Montana,2011,997316.0
+95,Nebraska,2011,1840672.0
+96,Nevada,2011,2712730.0
+97,New Hampshire,2011,1320202.0
+98,New Jersey,2011,8828117.0
+99,New Mexico,2011,2080450.0
+100,New York,2011,19499241.0
+101,North Carolina,2011,9657592.0
+102,North Dakota,2011,685225.0
+103,Ohio,2011,11544663.0
+104,Oklahoma,2011,3788379.0
+105,Oregon,2011,3872036.0
+106,Pennsylvania,2011,12745815.0
+107,Rhode Island,2011,1053649.0
+108,South Carolina,2011,4671994.0
+109,South Dakota,2011,823579.0
+110,Tennessee,2011,6399291.0
+111,Texas,2011,25645629.0
+112,Utah,2011,2814384.0
+113,Vermont,2011,627049.0
+114,Virginia,2011,8101155.0
+115,Washington,2011,6826627.0
+116,West Virginia,2011,1856301.0
+117,Wisconsin,2011,5705288.0
+118,Wyoming,2011,567299.0
+119,,2011,
+120,Puerto Rico,2011,3678732.0
+121,"Note: The estimates are based on the 2010 Census and reflect changes to the April 1, 2010 population due to the Count Question Resolution program and geographic program revisions See Geographic Terms and Definitions at http://wwwcensusgov/programs-surveys/popest/guidance-geographies/terms-and-definitionshtml for a list of the states that are included in each region  All geographic boundaries for the 2019 population estimates series except statistical area delineations are as of January 1, 2019  For population estimates methodology statements, see http://wwwcensusgov/programs-surveys/popest/technical-documentation/methodologyhtml",2011,
+122,Suggested Citation:,2011,
+123,"Table 1 Annual Estimates of the Resident Population for the United States, Regions, States, and Puerto Rico: April 1, 2010 to July 1, 2019 (NST-EST2019-01)",2011,
+124,"Source: US Census Bureau, Population Division",2011,
+125,Release Date: December 2019,2011,
+126,United States,2012,313830990.0
+127,Northeast,2012,55775216.0
+128,Midwest,2012,67336743.0
+129,South,2012,117241208.0
+130,West,2012,73477823.0
+131,Alabama,2012,4815588.0
+132,Alaska,2012,730443.0
+133,Arizona,2012,6554978.0
+134,Arkansas,2012,2952164.0
+135,California,2012,37948800.0
+136,Colorado,2012,5192647.0
+137,Connecticut,2012,3594547.0
+138,Delaware,2012,915179.0
+139,District of Columbia,2012,634924.0
+140,Florida,2012,19297822.0
+141,Georgia,2012,9901430.0
+142,Hawaii,2012,1394804.0
+143,Idaho,2012,1595324.0
+144,Illinois,2012,12882510.0
+145,Indiana,2012,6537703.0
+146,Iowa,2012,3076190.0
+147,Kansas,2012,2885257.0
+148,Kentucky,2012,4386346.0
+149,Louisiana,2012,4600972.0
+150,Maine,2012,1327729.0
+151,Maryland,2012,5886992.0
+152,Massachusetts,2012,6663005.0
+153,Michigan,2012,9897145.0
+154,Minnesota,2012,5376643.0
+155,Mississippi,2012,2983816.0
+156,Missouri,2012,6024367.0
+157,Montana,2012,1003783.0
+158,Nebraska,2012,1853303.0
+159,Nevada,2012,2743996.0
+160,New Hampshire,2012,1324232.0
+161,New Jersey,2012,8844942.0
+162,New Mexico,2012,2087309.0
+163,New York,2012,19572932.0
+164,North Carolina,2012,9749476.0
+165,North Dakota,2012,701176.0
+166,Ohio,2012,11548923.0
+167,Oklahoma,2012,3818814.0
+168,Oregon,2012,3899001.0
+169,Pennsylvania,2012,12767118.0
+170,Rhode Island,2012,1054621.0
+171,South Carolina,2012,4717354.0
+172,South Dakota,2012,833566.0
+173,Tennessee,2012,6453898.0
+174,Texas,2012,26084481.0
+175,Utah,2012,2853375.0
+176,Vermont,2012,626090.0
+177,Virginia,2012,8185080.0
+178,Washington,2012,6897058.0
+179,West Virginia,2012,1856872.0
+180,Wisconsin,2012,5719960.0
+181,Wyoming,2012,576305.0
+182,,2012,
+183,Puerto Rico,2012,3634488.0
+184,"Note: The estimates are based on the 2010 Census and reflect changes to the April 1, 2010 population due to the Count Question Resolution program and geographic program revisions See Geographic Terms and Definitions at http://wwwcensusgov/programs-surveys/popest/guidance-geographies/terms-and-definitionshtml for a list of the states that are included in each region  All geographic boundaries for the 2019 population estimates series except statistical area delineations are as of January 1, 2019  For population estimates methodology statements, see http://wwwcensusgov/programs-surveys/popest/technical-documentation/methodologyhtml",2012,
+185,Suggested Citation:,2012,
+186,"Table 1 Annual Estimates of the Resident Population for the United States, Regions, States, and Puerto Rico: April 1, 2010 to July 1, 2019 (NST-EST2019-01)",2012,
+187,"Source: US Census Bureau, Population Division",2012,
+188,Release Date: December 2019,2012,
+189,United States,2013,315993715.0
+190,Northeast,2013,55901806.0
+191,Midwest,2013,67560379.0
+192,South,2013,118364400.0
+193,West,2013,74167130.0
+194,Alabama,2013,4830081.0
+195,Alaska,2013,737068.0
+196,Arizona,2013,6632764.0
+197,Arkansas,2013,2959400.0
+198,California,2013,38260787.0
+199,Colorado,2013,5269035.0
+200,Connecticut,2013,3594841.0
+201,Delaware,2013,923576.0
+202,District of Columbia,2013,650581.0
+203,Florida,2013,19545621.0
+204,Georgia,2013,9972479.0
+205,Hawaii,2013,1408243.0
+206,Idaho,2013,1611206.0
+207,Illinois,2013,12895129.0
+208,Indiana,2013,6568713.0
+209,Iowa,2013,3092997.0
+210,Kansas,2013,2893212.0
+211,Kentucky,2013,4404659.0
+212,Louisiana,2013,4624527.0
+213,Maine,2013,1328009.0
+214,Maryland,2013,5923188.0
+215,Massachusetts,2013,6713315.0
+216,Michigan,2013,9913065.0
+217,Minnesota,2013,5413479.0
+218,Mississippi,2013,2988711.0
+219,Missouri,2013,6040715.0
+220,Montana,2013,1013569.0
+221,Nebraska,2013,1865279.0
+222,Nevada,2013,2775970.0
+223,New Hampshire,2013,1326622.0
+224,New Jersey,2013,8856972.0
+225,New Mexico,2013,2092273.0
+226,New York,2013,19624447.0
+227,North Carolina,2013,9843336.0
+228,North Dakota,2013,722036.0
+229,Ohio,2013,11576684.0
+230,Oklahoma,2013,3853214.0
+231,Oregon,2013,3922468.0
+232,Pennsylvania,2013,12776309.0
+233,Rhode Island,2013,1055081.0
+234,South Carolina,2013,4764080.0
+235,South Dakota,2013,842316.0
+236,Tennessee,2013,6494340.0
+237,Texas,2013,26480266.0
+238,Utah,2013,2897640.0
+239,Vermont,2013,626210.0
+240,Virginia,2013,8252427.0
+241,Washington,2013,6963985.0
+242,West Virginia,2013,1853914.0
+243,Wisconsin,2013,5736754.0
+244,Wyoming,2013,582122.0
+245,,2013,
+246,Puerto Rico,2013,3593077.0
+247,"Note: The estimates are based on the 2010 Census and reflect changes to the April 1, 2010 population due to the Count Question Resolution program and geographic program revisions See Geographic Terms and Definitions at http://wwwcensusgov/programs-surveys/popest/guidance-geographies/terms-and-definitionshtml for a list of the states that are included in each region  All geographic boundaries for the 2019 population estimates series except statistical area delineations are as of January 1, 2019  For population estimates methodology statements, see http://wwwcensusgov/programs-surveys/popest/technical-documentation/methodologyhtml",2013,
+248,Suggested Citation:,2013,
+249,"Table 1 Annual Estimates of the Resident Population for the United States, Regions, States, and Puerto Rico: April 1, 2010 to July 1, 2019 (NST-EST2019-01)",2013,
+250,"Source: US Census Bureau, Population Division",2013,
+251,Release Date: December 2019,2013,
+252,United States,2014,318301008.0
+253,Northeast,2014,56006011.0
+254,Midwest,2014,67745167.0
+255,South,2014,119624037.0
+256,West,2014,74925793.0
+257,Alabama,2014,4841799.0
+258,Alaska,2014,736283.0
+259,Arizona,2014,6730413.0
+260,Arkansas,2014,2967392.0
+261,California,2014,38596972.0
+262,Colorado,2014,5350101.0
+263,Connecticut,2014,3594524.0
+264,Delaware,2014,932487.0
+265,District of Columbia,2014,662328.0
+266,Florida,2014,19845911.0
+267,Georgia,2014,10067278.0
+268,Hawaii,2014,1414538.0
+269,Idaho,2014,1631112.0
+270,Illinois,2014,12884493.0
+271,Indiana,2014,6593644.0
+272,Iowa,2014,3109350.0
+273,Kansas,2014,2900475.0
+274,Kentucky,2014,4414349.0
+275,Louisiana,2014,4644013.0
+276,Maine,2014,1330513.0
+277,Maryland,2014,5957283.0
+278,Massachusetts,2014,6762596.0
+279,Michigan,2014,9929848.0
+280,Minnesota,2014,5451079.0
+281,Mississippi,2014,2990468.0
+282,Missouri,2014,6056202.0
+283,Montana,2014,1021869.0
+284,Nebraska,2014,1879321.0
+285,Nevada,2014,2817628.0
+286,New Hampshire,2014,1333341.0
+287,New Jersey,2014,8864525.0
+288,New Mexico,2014,2089568.0
+289,New York,2014,19651049.0
+290,North Carolina,2014,9932887.0
+291,North Dakota,2014,737401.0
+292,Ohio,2014,11602700.0
+293,Oklahoma,2014,3878187.0
+294,Oregon,2014,3963244.0
+295,Pennsylvania,2014,12788313.0
+296,Rhode Island,2014,1055936.0
+297,South Carolina,2014,4823617.0
+298,South Dakota,2014,849129.0
+299,Tennessee,2014,6541223.0
+300,Texas,2014,26964333.0
+301,Utah,2014,2936879.0
+302,Vermont,2014,625214.0
+303,Virginia,2014,8310993.0
+304,Washington,2014,7054655.0
+305,West Virginia,2014,1849489.0
+306,Wisconsin,2014,5751525.0
+307,Wyoming,2014,582531.0
+308,,2014,
+309,Puerto Rico,2014,3534874.0
+310,"Note: The estimates are based on the 2010 Census and reflect changes to the April 1, 2010 population due to the Count Question Resolution program and geographic program revisions See Geographic Terms and Definitions at http://wwwcensusgov/programs-surveys/popest/guidance-geographies/terms-and-definitionshtml for a list of the states that are included in each region  All geographic boundaries for the 2019 population estimates series except statistical area delineations are as of January 1, 2019  For population estimates methodology statements, see http://wwwcensusgov/programs-surveys/popest/technical-documentation/methodologyhtml",2014,
+311,Suggested Citation:,2014,
+312,"Table 1 Annual Estimates of the Resident Population for the United States, Regions, States, and Puerto Rico: April 1, 2010 to July 1, 2019 (NST-EST2019-01)",2014,
+313,"Source: US Census Bureau, Population Division",2014,
+314,Release Date: December 2019,2014,
+315,United States,2015,320635163.0
+316,Northeast,2015,56034684.0
+317,Midwest,2015,67860583.0
+318,South,2015,120997341.0
+319,West,2015,75742555.0
+320,Alabama,2015,4852347.0
+321,Alaska,2015,737498.0
+322,Arizona,2015,6829676.0
+323,Arkansas,2015,2978048.0
+324,California,2015,38918045.0
+325,Colorado,2015,5450623.0
+326,Connecticut,2015,3587122.0
+327,Delaware,2015,941252.0
+328,District of Columbia,2015,675400.0
+329,Florida,2015,20209042.0
+330,Georgia,2015,10178447.0
+331,Hawaii,2015,1422052.0
+332,Idaho,2015,1651059.0
+333,Illinois,2015,12858913.0
+334,Indiana,2015,6608422.0
+335,Iowa,2015,3120960.0
+336,Kansas,2015,2909011.0
+337,Kentucky,2015,4425976.0
+338,Louisiana,2015,4664628.0
+339,Maine,2015,1328262.0
+340,Maryland,2015,5985562.0
+341,Massachusetts,2015,6794228.0
+342,Michigan,2015,9931715.0
+343,Minnesota,2015,5482032.0
+344,Mississippi,2015,2988471.0
+345,Missouri,2015,6071732.0
+346,Montana,2015,1030475.0
+347,Nebraska,2015,1891277.0
+348,Nevada,2015,2866939.0
+349,New Hampshire,2015,1336350.0
+350,New Jersey,2015,8867949.0
+351,New Mexico,2015,2089291.0
+352,New York,2015,19654666.0
+353,North Carolina,2015,10031646.0
+354,North Dakota,2015,754066.0
+355,Ohio,2015,11617527.0
+356,Oklahoma,2015,3909500.0
+357,Oregon,2015,4015792.0
+358,Pennsylvania,2015,12784826.0
+359,Rhode Island,2015,1056065.0
+360,South Carolina,2015,4891938.0
+361,South Dakota,2015,853988.0
+362,Tennessee,2015,6591170.0
+363,Texas,2015,27470056.0
+364,Utah,2015,2981835.0
+365,Vermont,2015,625216.0
+366,Virginia,2015,8361808.0
+367,Washington,2015,7163657.0
+368,West Virginia,2015,1842050.0
+369,Wisconsin,2015,5760940.0
+370,Wyoming,2015,585613.0
+371,,2015,
+372,Puerto Rico,2015,3473232.0
+373,"Note: The estimates are based on the 2010 Census and reflect changes to the April 1, 2010 population due to the Count Question Resolution program and geographic program revisions See Geographic Terms and Definitions at http://wwwcensusgov/programs-surveys/popest/guidance-geographies/terms-and-definitionshtml for a list of the states that are included in each region  All geographic boundaries for the 2019 population estimates series except statistical area delineations are as of January 1, 2019  For population estimates methodology statements, see http://wwwcensusgov/programs-surveys/popest/technical-documentation/methodologyhtml",2015,
+374,Suggested Citation:,2015,
+375,"Table 1 Annual Estimates of the Resident Population for the United States, Regions, States, and Puerto Rico: April 1, 2010 to July 1, 2019 (NST-EST2019-01)",2015,
+376,"Source: US Census Bureau, Population Division",2015,
+377,Release Date: December 2019,2015,
+378,United States,2016,322941311.0
+379,Northeast,2016,56042330.0
+380,Midwest,2016,67987540.0
+381,South,2016,122351760.0
+382,West,2016,76559681.0
+383,Alabama,2016,4863525.0
+384,Alaska,2016,741456.0
+385,Arizona,2016,6941072.0
+386,Arkansas,2016,2989918.0
+387,California,2016,39167117.0
+388,Colorado,2016,5539215.0
+389,Connecticut,2016,3578141.0
+390,Delaware,2016,948921.0
+391,District of Columbia,2016,685815.0
+392,Florida,2016,20613477.0
+393,Georgia,2016,10301890.0
+394,Hawaii,2016,1427559.0
+395,Idaho,2016,1682380.0
+396,Illinois,2016,12820527.0
+397,Indiana,2016,6634304.0
+398,Iowa,2016,3131371.0
+399,Kansas,2016,2910844.0
+400,Kentucky,2016,4438182.0
+401,Louisiana,2016,4678135.0
+402,Maine,2016,1331317.0
+403,Maryland,2016,6003323.0
+404,Massachusetts,2016,6823608.0
+405,Michigan,2016,9950571.0
+406,Minnesota,2016,5522744.0
+407,Mississippi,2016,2987938.0
+408,Missouri,2016,6087135.0
+409,Montana,2016,1040859.0
+410,Nebraska,2016,1905616.0
+411,Nevada,2016,2917563.0
+412,New Hampshire,2016,1342307.0
+413,New Jersey,2016,8870827.0
+414,New Mexico,2016,2091630.0
+415,New York,2016,19633428.0
+416,North Carolina,2016,10154788.0
+417,North Dakota,2016,754434.0
+418,Ohio,2016,11634370.0
+419,Oklahoma,2016,3926331.0
+420,Oregon,2016,4089976.0
+421,Pennsylvania,2016,12782275.0
+422,Rhode Island,2016,1056770.0
+423,South Carolina,2016,4957968.0
+424,South Dakota,2016,862996.0
+425,Tennessee,2016,6646010.0
+426,Texas,2016,27914410.0
+427,Utah,2016,3041868.0
+428,Vermont,2016,623657.0
+429,Virginia,2016,8410106.0
+430,Washington,2016,7294771.0
+431,West Virginia,2016,1831023.0
+432,Wisconsin,2016,5772628.0
+433,Wyoming,2016,584215.0
+434,,2016,
+435,Puerto Rico,2016,3406672.0
+436,"Note: The estimates are based on the 2010 Census and reflect changes to the April 1, 2010 population due to the Count Question Resolution program and geographic program revisions See Geographic Terms and Definitions at http://wwwcensusgov/programs-surveys/popest/guidance-geographies/terms-and-definitionshtml for a list of the states that are included in each region  All geographic boundaries for the 2019 population estimates series except statistical area delineations are as of January 1, 2019  For population estimates methodology statements, see http://wwwcensusgov/programs-surveys/popest/technical-documentation/methodologyhtml",2016,
+437,Suggested Citation:,2016,
+438,"Table 1 Annual Estimates of the Resident Population for the United States, Regions, States, and Puerto Rico: April 1, 2010 to July 1, 2019 (NST-EST2019-01)",2016,
+439,"Source: US Census Bureau, Population Division",2016,
+440,Release Date: December 2019,2016,
+441,United States,2017,324985539.0
+442,Northeast,2017,56059240.0
+443,Midwest,2017,68126781.0
+444,South,2017,123542189.0
+445,West,2017,77257329.0
+446,Alabama,2017,4874486.0
+447,Alaska,2017,739700.0
+448,Arizona,2017,7044008.0
+449,Arkansas,2017,3001345.0
+450,California,2017,39358497.0
+451,Colorado,2017,5611885.0
+452,Connecticut,2017,3573297.0
+453,Delaware,2017,956823.0
+454,District of Columbia,2017,694906.0
+455,Florida,2017,20963613.0
+456,Georgia,2017,10410330.0
+457,Hawaii,2017,1424393.0
+458,Idaho,2017,1717715.0
+459,Illinois,2017,12778828.0
+460,Indiana,2017,6658078.0
+461,Iowa,2017,3141550.0
+462,Kansas,2017,2908718.0
+463,Kentucky,2017,4452268.0
+464,Louisiana,2017,4670560.0
+465,Maine,2017,1334612.0
+466,Maryland,2017,6023868.0
+467,Massachusetts,2017,6859789.0
+468,Michigan,2017,9973114.0
+469,Minnesota,2017,5566230.0
+470,Mississippi,2017,2988510.0
+471,Missouri,2017,6106670.0
+472,Montana,2017,1052482.0
+473,Nebraska,2017,1915947.0
+474,Nevada,2017,2969905.0
+475,New Hampshire,2017,1348787.0
+476,New Jersey,2017,8885525.0
+477,New Mexico,2017,2091784.0
+478,New York,2017,19589572.0
+479,North Carolina,2017,10268233.0
+480,North Dakota,2017,754942.0
+481,Ohio,2017,11659650.0
+482,Oklahoma,2017,3931316.0
+483,Oregon,2017,4143625.0
+484,Pennsylvania,2017,12787641.0
+485,Rhode Island,2017,1055673.0
+486,South Carolina,2017,5021268.0
+487,South Dakota,2017,872868.0
+488,Tennessee,2017,6708799.0
+489,Texas,2017,28295273.0
+490,Utah,2017,3101042.0
+491,Vermont,2017,624344.0
+492,Virginia,2017,8463587.0
+493,Washington,2017,7423362.0
+494,West Virginia,2017,1817004.0
+495,Wisconsin,2017,5790186.0
+496,Wyoming,2017,578931.0
+497,,2017,
+498,Puerto Rico,2017,3325286.0
+499,"Note: The estimates are based on the 2010 Census and reflect changes to the April 1, 2010 population due to the Count Question Resolution program and geographic program revisions See Geographic Terms and Definitions at http://wwwcensusgov/programs-surveys/popest/guidance-geographies/terms-and-definitionshtml for a list of the states that are included in each region  All geographic boundaries for the 2019 population estimates series except statistical area delineations are as of January 1, 2019  For population estimates methodology statements, see http://wwwcensusgov/programs-surveys/popest/technical-documentation/methodologyhtml",2017,
+500,Suggested Citation:,2017,
+501,"Table 1 Annual Estimates of the Resident Population for the United States, Regions, States, and Puerto Rico: April 1, 2010 to July 1, 2019 (NST-EST2019-01)",2017,
+502,"Source: US Census Bureau, Population Division",2017,
+503,Release Date: December 2019,2017,
+504,United States,2018,326687501.0
+505,Northeast,2018,56046620.0
+506,Midwest,2018,68236628.0
+507,South,2018,124569433.0
+508,West,2018,77834820.0
+509,Alabama,2018,4887681.0
+510,Alaska,2018,735139.0
+511,Arizona,2018,7158024.0
+512,Arkansas,2018,3009733.0
+513,California,2018,39461588.0
+514,Colorado,2018,5691287.0
+515,Connecticut,2018,3571520.0
+516,Delaware,2018,965479.0
+517,District of Columbia,2018,701547.0
+518,Florida,2018,21244317.0
+519,Georgia,2018,10511131.0
+520,Hawaii,2018,1420593.0
+521,Idaho,2018,1750536.0
+522,Illinois,2018,12723071.0
+523,Indiana,2018,6695497.0
+524,Iowa,2018,3148618.0
+525,Kansas,2018,2911359.0
+526,Kentucky,2018,4461153.0
+527,Louisiana,2018,4659690.0
+528,Maine,2018,1339057.0
+529,Maryland,2018,6035802.0
+530,Massachusetts,2018,6882635.0
+531,Michigan,2018,9984072.0
+532,Minnesota,2018,5606249.0
+533,Mississippi,2018,2981020.0
+534,Missouri,2018,6121623.0
+535,Montana,2018,1060665.0
+536,Nebraska,2018,1925614.0
+537,Nevada,2018,3027341.0
+538,New Hampshire,2018,1353465.0
+539,New Jersey,2018,8886025.0
+540,New Mexico,2018,2092741.0
+541,New York,2018,19530351.0
+542,North Carolina,2018,10381615.0
+543,North Dakota,2018,758080.0
+544,Ohio,2018,11676341.0
+545,Oklahoma,2018,3940235.0
+546,Oregon,2018,4181886.0
+547,Pennsylvania,2018,12800922.0
+548,Rhode Island,2018,1058287.0
+549,South Carolina,2018,5084156.0
+550,South Dakota,2018,878698.0
+551,Tennessee,2018,6771631.0
+552,Texas,2018,28628666.0
+553,Utah,2018,3153550.0
+554,Vermont,2018,624358.0
+555,Virginia,2018,8501286.0
+556,Washington,2018,7523869.0
+557,West Virginia,2018,1804291.0
+558,Wisconsin,2018,5807406.0
+559,Wyoming,2018,577601.0
+560,,2018,
+561,Puerto Rico,2018,3193354.0
+562,"Note: The estimates are based on the 2010 Census and reflect changes to the April 1, 2010 population due to the Count Question Resolution program and geographic program revisions See Geographic Terms and Definitions at http://wwwcensusgov/programs-surveys/popest/guidance-geographies/terms-and-definitionshtml for a list of the states that are included in each region  All geographic boundaries for the 2019 population estimates series except statistical area delineations are as of January 1, 2019  For population estimates methodology statements, see http://wwwcensusgov/programs-surveys/popest/technical-documentation/methodologyhtml",2018,
+563,Suggested Citation:,2018,
+564,"Table 1 Annual Estimates of the Resident Population for the United States, Regions, States, and Puerto Rico: April 1, 2010 to July 1, 2019 (NST-EST2019-01)",2018,
+565,"Source: US Census Bureau, Population Division",2018,
+566,Release Date: December 2019,2018,
+567,United States,2019,328239523.0
+568,Northeast,2019,55982803.0
+569,Midwest,2019,68329004.0
+570,South,2019,125580448.0
+571,West,2019,78347268.0
+572,Alabama,2019,4903185.0
+573,Alaska,2019,731545.0
+574,Arizona,2019,7278717.0
+575,Arkansas,2019,3017804.0
+576,California,2019,39512223.0
+577,Colorado,2019,5758736.0
+578,Connecticut,2019,3565287.0
+579,Delaware,2019,973764.0
+580,District of Columbia,2019,705749.0
+581,Florida,2019,21477737.0
+582,Georgia,2019,10617423.0
+583,Hawaii,2019,1415872.0
+584,Idaho,2019,1787065.0
+585,Illinois,2019,12671821.0
+586,Indiana,2019,6732219.0
+587,Iowa,2019,3155070.0
+588,Kansas,2019,2913314.0
+589,Kentucky,2019,4467673.0
+590,Louisiana,2019,4648794.0
+591,Maine,2019,1344212.0
+592,Maryland,2019,6045680.0
+593,Massachusetts,2019,6892503.0
+594,Michigan,2019,9986857.0
+595,Minnesota,2019,5639632.0
+596,Mississippi,2019,2976149.0
+597,Missouri,2019,6137428.0
+598,Montana,2019,1068778.0
+599,Nebraska,2019,1934408.0
+600,Nevada,2019,3080156.0
+601,New Hampshire,2019,1359711.0
+602,New Jersey,2019,8882190.0
+603,New Mexico,2019,2096829.0
+604,New York,2019,19453561.0
+605,North Carolina,2019,10488084.0
+606,North Dakota,2019,762062.0
+607,Ohio,2019,11689100.0
+608,Oklahoma,2019,3956971.0
+609,Oregon,2019,4217737.0
+610,Pennsylvania,2019,12801989.0
+611,Rhode Island,2019,1059361.0
+612,South Carolina,2019,5148714.0
+613,South Dakota,2019,884659.0
+614,Tennessee,2019,6829174.0
+615,Texas,2019,28995881.0
+616,Utah,2019,3205958.0
+617,Vermont,2019,623989.0
+618,Virginia,2019,8535519.0
+619,Washington,2019,7614893.0
+620,West Virginia,2019,1792147.0
+621,Wisconsin,2019,5822434.0
+622,Wyoming,2019,578759.0
+623,,2019,
+624,Puerto Rico,2019,3193694.0
+625,"Note: The estimates are based on the 2010 Census and reflect changes to the April 1, 2010 population due to the Count Question Resolution program and geographic program revisions See Geographic Terms and Definitions at http://wwwcensusgov/programs-surveys/popest/guidance-geographies/terms-and-definitionshtml for a list of the states that are included in each region  All geographic boundaries for the 2019 population estimates series except statistical area delineations are as of January 1, 2019  For population estimates methodology statements, see http://wwwcensusgov/programs-surveys/popest/technical-documentation/methodologyhtml",2019,
+626,Suggested Citation:,2019,
+627,"Table 1 Annual Estimates of the Resident Population for the United States, Regions, States, and Puerto Rico: April 1, 2010 to July 1, 2019 (NST-EST2019-01)",2019,
+628,"Source: US Census Bureau, Population Division",2019,
+629,Release Date: December 2019,2019,
