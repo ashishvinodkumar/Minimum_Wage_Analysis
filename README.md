@@ -17,7 +17,7 @@ We found our dataset on the United States Census Government website, which conta
 By using pre-post and difference-in-difference analysis simultaneously on our treatment states, we can provide a visualization for the impact of key response variables such as unemployment rate and GDP for treatment states that changed their minimum wages in 2015. We also performed regression analysis to further interpret the observed differences.
 
 ## Unemployment Rate
-![UnemploymentRate_vs_Time](https://user-images.githubusercontent.com/26104722/124047108-6462d600-d9e1-11eb-9e12-e491d47a6cdc.png){:height="50%" width="50%"}
+<img src="https://user-images.githubusercontent.com/26104722/124047108-6462d600-d9e1-11eb-9e12-e491d47a6cdc.png" width="50" height="50">
 
 Through the difference-in-difference plot we observe that the trendline for both treatment and control states are not parallel pre-2015. We also observe that the treatment line has flattened post-2015 and moves from being below the control states line to above the control states line. More importantly, since the trendlines for treatment and control are not parallel pre-2015, we cannot make a reasonable comparison on the effects of increasing minimum wages having a direct impact on unemployment rate.
 
@@ -27,7 +27,7 @@ To better analyze the slight flattening of unemployment rate post-2015, we regre
 
 
 ## GDP Analysis
-![GDP_vs_Time](https://user-images.githubusercontent.com/26104722/124047104-63ca3f80-d9e1-11eb-9f83-f089815d5f4a.png){:height="50%" width="50%"}
+![GDP_vs_Time](https://user-images.githubusercontent.com/26104722/124047104-63ca3f80-d9e1-11eb-9f83-f089815d5f4a.png)
 
 We observe that the treatment and control trendlines are not exactly parallel pre-2015. The control states line has a slightly higher rate of increase in GDP compared to the treatment states line. Due to this, we cannot make a reasonable comparison to directly attribute changes from increasing minimum wages for treatment states.
 
