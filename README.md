@@ -1,6 +1,6 @@
 # Minimum Wage Analysis
 
-Full Report (pdf): https://github.com/ashishvinodkumar/Minimum_Wage_Analysis/blob/main/30_Report/Causal_Inference_Minimum_Wage_Analysis_Report.pdf
+Full Report: https://github.com/ashishvinodkumar/Minimum_Wage_Analysis/blob/main/30_Report/Causal_Inference_Minimum_Wage_Analysis_Report.pdf
 
 Presentation Video: https://youtu.be/sedPOnExlcE
 
